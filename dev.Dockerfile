@@ -2,7 +2,7 @@
 # Material for MkDocs to work. If you'd like to contribute to Hacking the Cloud
 # and need to setup a local env, you can use the normal "Dockerfile" in this repo.
 # Thank you!
-FROM ubuntu
+FROM ubuntu:24.10
 
 ARG GH_TOKEN
 
